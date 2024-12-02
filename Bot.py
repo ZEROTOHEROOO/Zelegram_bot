@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 
 # Replace with your bot token
-BOT_TOKEN = "7297559827:AAF9_H9m3IwrLhcSyr7M1p02S6irugmYiTI"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 def start(update, context):
     update.message.reply_text("*Welcome! to ZERO!BOT!* 
